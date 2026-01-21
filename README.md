@@ -1,12 +1,16 @@
 ### Olá, eu sou o Nathan Rezende 👻
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-rezende-4a5576358/)
+
 
 <!--![Nathan Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezys07&show_icons=true&theme=radical)-->
 <p>Sou um desenvolvedor movido pela curiosidade e pelo desejo genuíno de entender como as coisas funcionam. A tecnologia, para mim, vai além de código e ferramentas: é um meio de resolver problemas reais e criar experiências que fazem diferença na vida das pessoas. Acredito que o aprendizado nunca para. Cada projeto é uma oportunidade de crescer, cada erro é uma lição valiosa, e cada nova tecnologia é uma porta para possibilidades que antes nem imaginava. <br>
 Busco constantemente equilibrar a teoria com a prática, testando o que aprendo em projetos reais e desafiadores. Metodologias novas me interessam não por serem modismos, mas porque podem trazer eficiência e clareza ao trabalho. O que me motiva de verdade é saber que o que construo tem utilidade, que resolve uma dor específica ou melhora a rotina de alguém. <br>
 Meu objetivo profissional vai além de apenas acumular experiência: quero dominar a arquitetura de sistemas escaláveis, entender a fundo o ciclo completo de desenvolvimento e me tornar alguém capaz de tomar decisões técnicas sólidas que impactem o negócio. Busco ambientes onde possa mergulhar em problemas complexos, trabalhar próximo de profissionais experientes e, eventualmente, liderar iniciativas que transformem ideias em produtos robustos. Tenho interesse especial em contribuir para projetos que gerem impacto social ou que resolvam desafios técnicos realmente difíceis.</p>
 <br>
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-rezende-4a5576358/)
+
+
 ### Tecnologias que utilizo
 
 <div style="display: inline_block">
