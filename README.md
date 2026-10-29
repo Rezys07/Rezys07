@@ -4,69 +4,48 @@
 
 **Desenvolvedor Backend · APIs · Arquitetura Limpa**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-rezende-4a5576358/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanrrezende@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-rezende-4a5576358/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathanrrezende@gmail.com)
 
 </div>
 
----
+Desenvolvedor backend em busca de oportunidades para contribuir na construção de sistemas escaláveis e eficientes. Experiência com **APIs**, **padrões de projeto**, **código limpo** e **arquitetura limpa**, além de conhecimento em **Linux** e **Git**. 🌱
 
-## 👨‍💻 Sobre mim
-
-Desenvolvedor backend em busca de oportunidades para aplicar meus conhecimentos em desenvolvimento de software e contribuir na construção de sistemas escaláveis e eficientes.
-
-- 🔧 Experiência com **desenvolvimento de APIs**
-- 🏛️ Boas práticas de engenharia de software, **padrões de projeto**, **código limpo** e **arquitetura limpa**
-- 🧰 Tecnologias: **Java, Node.js, TypeScript, React, Next.js, MySQL e MongoDB**
-- 🐧 Conhecimento em **Linux** e controle de versão com **Git**
-- 🌱 Sempre buscando evoluir tecnicamente e entregar soluções eficientes e com impacto real
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-**Backend**
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-</p>
-
-**Frontend**
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</p>
-
-**Bancos de dados**
-
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-
-**Ferramentas**
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
-
----
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+      <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white">
+      <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+      <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bancos</b></td>
+    <td>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td>
+      <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+    </td>
+  </tr>
+</table>
 
 <!--
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezys07&show_icons=true&theme=radical" alt="GitHub stats" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezys07&show_icons=true&theme=radical)
 -->
-
-## 📫 Contato
-
-Vamos conversar! Me chame no [LinkedIn](https://www.linkedin.com/in/nathan-rezende-4a5576358/) ou envie um e-mail para **nathanrrezende@gmail.com**.
