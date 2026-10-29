@@ -33,6 +33,7 @@ Desenvolvedor backend em busca de oportunidades para contribuir na construção 
   <tr>
     <td><b>Bancos</b></td>
     <td>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
     </td>
